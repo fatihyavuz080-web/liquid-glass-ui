@@ -1,0 +1,6 @@
+{
+  "name": "LiquidGlass",
+  "description": "Ultra-smooth liquid glass UI design studio with high-gloss refractive components and AI visual prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
